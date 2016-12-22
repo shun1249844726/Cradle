@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mode">
+        <item>睡眠模式</item>
+        <item>非睡眠模式</item>
+    </string-array>
+    <string-array name="speed">
+        <item>一档</item>
+        <item>二档</item>
+        <item>三档</item>
+    </string-array>
+    <string-array name="time">
+        <item>3秒</item>
+        <item>6秒</item>
+        <item>10秒</item>
+        <item>无限制</item>
+    </string-array>
+    <string-array name="tempeture">
+        <item>小</item>
+        <item>标准</item>
+        <item>大</item>
+    </string-array>
+</resources>
